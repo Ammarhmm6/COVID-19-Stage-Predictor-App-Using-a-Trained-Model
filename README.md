@@ -1,4 +1,4 @@
-# COVID-19-Stage-Predictor-App-using-Trained-Model
+# COVID-19-Stage-Predictor-App-Using-a-Trained-Model
 
 Download the model from the following link:
 
